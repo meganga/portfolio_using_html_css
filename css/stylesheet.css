@@ -3,7 +3,10 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   letter-spacing: 1px;
+  background-color: #000000;
 }
+
+/* ********************* Header ********************* */
 
 .header {
   display: flex;
@@ -47,14 +50,18 @@ body {
   text-decoration: underline;
 }
 
+/* ********************* SECTION: about me ********************* */
+
 .about_me {
   background-image: url("../images/saskatoon-skyline.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: rgba(182, 201, 200, 0.84);
-  height: 900px;
-  margin: 0;
+  height: 700px;
+  width: 90%;
+  border-radius: 50px;
+  margin: 0 auto;
   position: relative;
   z-index: -1;
 }
@@ -94,38 +101,109 @@ body {
 
 .beard_mustache_image {
   position: absolute;
-  bottom: 0;
+  top: 0;
   right: 0;
   width: 90px;
 }
 
-.projects {
-  background-image: url(../images/3820134200600108k_seoul-night-scene.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 900px;
-  position: relative;
-  z-index: -1;
-}
+/* ********************* SECTION: projects ********************* */
 
 .projects_title {
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   color: #ffffff;
   font-size: 55px;
+  text-align: center;
+  position: sticky;
+  /* position: -webkit-sticky;
+  top: 0;
+  z-index: -1; */
 }
 
 .project {
-  position: absolute;
-  top: 30%;
-  background-color: rgba(127, 127, 139, 0.15);
+  background-color: rgb(153, 153, 155);
   color: #ffffff;
   border-radius: 10px;
-  /* text-align: center; */
+  /* width: 90%; */
   font-size: 30px;
-  width: 100%;
-  /* padding-left: 20px; */
+  line-height: 1.6em;
+  margin: 0 auto;
+}
+
+.number_1 {
+  background-image: url(../images/26-spotify.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 80px;
+}
+
+.projects_link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.projects_link:hover {
+  color: #3a3737;
+  text-shadow: 1px 1px 5px #ffffff;
+}
+
+.number_2 {
+  background-image: url(../images/1-1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 80px;
+}
+
+/* ********************* SECTION: contact me ********************* */
+
+.contact_me_title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 55px;
+}
+
+.contact_me_background_image {
+  background-image: url(../images/night-sky-full-of-stars.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  width: 90%;
+  margin: 0 auto;
+
+  /* height: 900px; */
+  /* position: relative; */
+}
+
+.contact_form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 80px;
+}
+
+.input {
+  /* position: absolute;
+  top: 15%;
+  left: 5%; */
+  width: 90%;
+  height: 40px;
+  background-color: rgba(190, 189, 186, 0.459);
+  border-radius: 15px;
+}
+
+.label {
+  /* position: absolute;
+  top: 10%;
+  left: 5%; */
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.text_message {
+  border-radius: 15px;
+  width: 90%;
+  background-color: rgba(190, 189, 186, 0.459);
+  color: #ffffff;
+  font-size: 20px;
 }

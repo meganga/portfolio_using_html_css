@@ -9,11 +9,14 @@
   <body>
     <!-- *************** Header *************** -->
     <header class="header">
-      <button class="button navigation">About Me</button
+      <button class="button navigation">
+        <a class="navigation_button_link" href="#aboutMe">About me</a></button
       ><button class="button navigation">
-        <a href="#projects">Projects</a>
+        <a class="navigation_button_link" href="#projects">Projects</a>
       </button>
-      <button class="button navigation">Let's meet</button>
+      <button class="button navigation">
+        <a class="navigation_button_link" href="#contactMe">Let's meet</a>
+      </button>
     </header>
     <!-- *************** SECTION: About me *************** -->
     <section id="aboutMe" class="about_me">
@@ -26,22 +29,16 @@
             src="images/beard-mustache-icon-on-white-260nw-536528473-removebg-preview.png"
             alt="image with beard and mustache"
             class="beard_mustache_image"
-          />
-        </p>
+          /><br /><br />
 
-        <p class="about_me_paragraph">And I'm a developer.</p>
+          And I'm a developer.
+        </p>
       </div>
-      <a
-        href="https://www.fortunebuilders.com/wp-content/uploads/2015/08/saskatoon-skyline.jpg"
-        class="saskatoon_background_image_credit_link"
-        target=":_blank"
-        >Backgroung image link</a
-      >
     </section>
     <!-- *************** SECTION: Projects *************** -->
 
     <section id="projects" class="projects">
-      <h2 class="projects_title">Projects</h2>
+      <h2 class="project_title">Projects</h2>
       <div class="project number_1">
         <dl>
           <dt>Spotify Sign up form Clone</dt>
@@ -122,32 +119,80 @@
       <h2 class="contact_me_title">Let's Connect</h2>
       <div class="contact_me_background_image">
         <form action="" class="contact_form">
-          <label for="userName" class="label user_name">Full Name: </label
-          ><br />
-          <input
-            type="text"
-            name="userName"
-            class="input user_name"
-          /><br /><br />
-          <label for="userEmail" class="label user_email">E-mail: </label><br />
-          <input
-            type="text"
-            name="userName"
-            class="input user_name"
-          /><br /><br /><br />
-          <!-- <label for="message" class="label message"></label> -->
+          <label for="userName" class="label user_name">Full Name: </label>
+          <input type="text" name="userName" class="input user_name" />
+          <label for="userEmail" class="label user_email">E-mail: </label>
+          <input type="text" name="userName" class="input user_name" />
+          <label for="message" class="label message">Message:</label>
           <textarea
             class="text_message"
             name="message"
-            id=""
             cols="30"
             rows="10"
-          >
-Got ways to improve this site or just wanna have a conversation?</textarea
-          >
+            placeholder="Got ways to improve this site or just wanna have a conversation?
+          "
+          ></textarea>
+          <input class="contact_form_submit_btn" type="submit" />
         </form>
-        -->
       </div>
     </section>
+    <hr />
+    <footer class="footer">
+      <dl class="images">
+        <dt>Images used:</dt>
+        <dd>
+          <ul class="images_used_list">
+            <li>
+              <a
+                href="http://craniumcrunches.com/blog/wp-content/uploads/2014/03/night-sky-full-of-stars.jpg"
+                class="footer_link"
+                target="_blank"
+                >Night full of sky</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://gomezjuliana.github.io/conquer-template/assets/imgs/1-1.jpg"
+                class="footer_link"
+                target="_blank"
+                >Northern lights</a
+              >
+            </li>
+            <li>
+              <a
+                href="http://craniumcrunches.com/blog/wp-content/uploads/2014/03/night-sky-full-of-stars.jpg"
+                class="footer_link"
+                target="_blank"
+                >Night full of sky</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.edmtunes.com/wp-content/uploads/2017/12/26-spotify.jpg"
+                class="footer_link"
+                target="_blank"
+                >Spotify</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://image.shutterstock.com/image-illustration/beard-mustache-icon-on-white-260nw-536528473.jpg"
+                class="footer_link"
+                target="_blank"
+                >Beard-mustache</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.fortunebuilders.com/wp-content/uploads/2015/08/saskatoon-skyline.jpg"
+                class="footer_link"
+                target="_blank"
+                >Saskatoon at night</a
+              >
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </footer>
   </body>
 </html>

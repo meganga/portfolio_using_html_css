@@ -9,7 +9,7 @@ The project is created with
  - HTML 5
  - CSS 4
 
-## Applications used to write code:
+## Applications/resources used :
 
  - Visual Studio: 
 		 - To write all the HTML and the CSS code.
@@ -19,19 +19,14 @@ The project is created with
  - Stackedit:
 		 - To write and maintain the README.md file.
 		 - https://stackedit.io
-		 - 
-		 
 
-
-
-
-## Design Technologies:
+## Design Technologies used:
 
  - Vecter:       To design the various sections of the web page.
 			- https://vectr.com/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDYzMTI2LDM5MjQ2ODc4MywtOTc5Mj
-Q0MjY1LC0yMDk0MDEyODM0XX0=
+eyJoaXN0b3J5IjpbLTEzNzg0MTQ2MzcsMzkyNDY4NzgzLC05Nz
+kyNDQyNjUsLTIwOTQwMTI4MzRdfQ==
 -->

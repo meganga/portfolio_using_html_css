@@ -16,6 +16,10 @@ The project is created with
  - Pakages used:	 			
 					 - Prettier: To take care of the indentation and maintaining the structure of the code.
 					 - open in browse: To open file in a browse more easily.
+ - Stackedit:
+		 - To write and maintain the README.md fi
+		 
+
 
 
 
@@ -26,6 +30,6 @@ The project is created with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcxMTEzNSwzOTI0Njg3ODMsLTk3OT
+eyJoaXN0b3J5IjpbLTgwODU0OTQ2NiwzOTI0Njg3ODMsLTk3OT
 I0NDI2NSwtMjA5NDAxMjgzNF19
 -->

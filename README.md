@@ -4,6 +4,7 @@
 It is a part of my journey to learn web development technologies.The html page is made using only css and no external libraries.
 
 ## Technologies Used:
+	The profect 
 
  - HTML 5
  - C
@@ -18,6 +19,6 @@ It is a part of my journey to learn web development technologies.The html page i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTMyNzc1NSwzOTI0Njg3ODMsLTk3OT
+eyJoaXN0b3J5IjpbLTkxOTk3MzU1MywzOTI0Njg3ODMsLTk3OT
 I0NDI2NSwtMjA5NDAxMjgzNF19
 -->

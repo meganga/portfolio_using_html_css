@@ -30,9 +30,10 @@ The project is created with
  
 
  - Edge version 12 and above.
- - Firefox 
+ - Firefox version 28 and above.
+ - Chrome version
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY0MzQ1NTEsLTYzMTUxNjE3MiwzOT
-I0Njg3ODMsLTk3OTI0NDI2NSwtMjA5NDAxMjgzNF19
+eyJoaXN0b3J5IjpbLTMzOTc3Nzc1OCwtNjMxNTE2MTcyLDM5Mj
+Q2ODc4MywtOTc5MjQ0MjY1LC0yMDk0MDEyODM0XX0=
 -->

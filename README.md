@@ -29,11 +29,14 @@ The project is created with
 ## Launch
  
 
- - Edge version 12 and above.
- - Firefox version 28 and above.
- - Chrome version
+ - Edge 
+	 - Jul 2015 release above.
+ - Firefox 
+	 - Mar 2014 release and above.
+ - Chrome 
+ - version 29 and above
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTc3Nzc1OCwtNjMxNTE2MTcyLDM5Mj
-Q2ODc4MywtOTc5MjQ0MjY1LC0yMDk0MDEyODM0XX0=
+eyJoaXN0b3J5IjpbMzYyNjYwNjU2LC02MzE1MTYxNzIsMzkyND
+Y4NzgzLC05NzkyNDQyNjUsLTIwOTQwMTI4MzRdfQ==
 -->

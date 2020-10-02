@@ -23,7 +23,8 @@ The project is created with
 
 ## Design Technologies used:
 
- - Vecter:       To design the various sections of the web page.
+ - Vecter:     
+	 -   To design the various sections of the web page.
 			- https://vectr.com/
 
 
@@ -41,6 +42,7 @@ The project is created with
 - Opera
 	- Oct 2013 release and above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5ODY0MjAyLC02MzE1MTYxNzIsMzkyND
-Y4NzgzLC05NzkyNDQyNjUsLTIwOTQwMTI4MzRdfQ==
+eyJoaXN0b3J5IjpbMTEzNjE0NTQyMyw3ODk4NjQyMDIsLTYzMT
+UxNjE3MiwzOTI0Njg3ODMsLTk3OTI0NDI2NSwtMjA5NDAxMjgz
+NF19
 -->

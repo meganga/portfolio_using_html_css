@@ -1,11 +1,13 @@
 
 # My first portfolio using html and css.
 
+Making a html webp
+
 ## Technologies Used:
 
 
 
- 1.Visual Studio: To write all the HTML and the CSS code.
+ 1. Visual Studio: To write all the HTML and the CSS code.
  - Pakages used:	 			
 					 - Prettier: To take care of the indentation and maintaining the structure of the code.
 					 - open in browse: To open file in a browse more easily.
@@ -14,5 +16,6 @@
 			- https://vectr.com/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQwMTI4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTA4MzgyNDEsLTIwOTQwMTI4MzRdfQ
+==
 -->

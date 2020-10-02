@@ -15,10 +15,11 @@ The project is created with
 		 - To write all the HTML and the CSS code.
  - Pakages used:	 
 	 -  Prettier: To take care of the indentation and maintaining the structure of the code.
+	 - open in browse: To open file in a browse more easily.
+ - Stackedit:
 	
 			 
-					 - open in browse: To open file in a browse more easily.
- - Stackedit:
+
 		 - To write and maintain the README.md file.
 		 - https://stackedit.io
 
@@ -42,6 +43,6 @@ The project is created with
 - Opera
 	- Oct 2013 release and above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTE0NDYyNiwtNjMxNTE2MTcyLDM5Mj
+eyJoaXN0b3J5IjpbMTUwNTI0NzI0NCwtNjMxNTE2MTcyLDM5Mj
 Q2ODc4MywtOTc5MjQ0MjY1LC0yMDk0MDEyODM0XX0=
 -->

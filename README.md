@@ -34,9 +34,14 @@ The project is created with
  - Firefox 
 	 - Mar 2014 release and above.
  - Chrome 
- - version 29 and above
+	 - Jul 2013 release and above.
+- Safari
+	- Sept 2015 release and above.
+- Opera
+	- Oct 2013 release and above.
+	-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNjYwNjU2LC02MzE1MTYxNzIsMzkyND
-Y4NzgzLC05NzkyNDQyNjUsLTIwOTQwMTI4MzRdfQ==
+eyJoaXN0b3J5IjpbMTY5OTU4NjE1NywtNjMxNTE2MTcyLDM5Mj
+Q2ODc4MywtOTc5MjQ0MjY1LC0yMDk0MDEyODM0XX0=
 -->

@@ -42,8 +42,13 @@ The project is created with
 - Opera
 	- Oct 2013 release and above.
 
+
+### Github Pages
+
+ - Access the page here:
+	 - https://meganga.github.io/portfolio_using_html_css/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDczMjMyNjcsMTEzNjE0NTQyMyw3OD
-k4NjQyMDIsLTYzMTUxNjE3MiwzOTI0Njg3ODMsLTk3OTI0NDI2
-NSwtMjA5NDAxMjgzNF19
+eyJoaXN0b3J5IjpbLTE4NzYzOTM2MCwxMTM2MTQ1NDIzLDc4OT
+g2NDIwMiwtNjMxNTE2MTcyLDM5MjQ2ODc4MywtOTc5MjQ0MjY1
+LC0yMDk0MDEyODM0XX0=
 -->

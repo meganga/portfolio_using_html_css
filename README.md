@@ -15,6 +15,7 @@ Making a html webpage using css only.
 2. Vecter:       To design the various sections of the web page.
 			- https://vectr.com/
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzQ2OTc4MywtMjA5NDAxMjgzNF19
+eyJoaXN0b3J5IjpbLTk3OTI0NDI2NSwtMjA5NDAxMjgzNF19
 -->

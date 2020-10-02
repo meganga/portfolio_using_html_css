@@ -4,10 +4,10 @@
 It is a part of my journey to learn web development technologies.The html page is made using only css and no external libraries.
 
 ## Technologies Used:
-	The profect 
+The project is created with
 
  - HTML 5
- - C
+ - CSS 3
 
  - Visual Studio: To write all the HTML and the CSS code.
  - Pakages used:	 			
@@ -19,6 +19,6 @@ It is a part of my journey to learn web development technologies.The html page i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTk3MzU1MywzOTI0Njg3ODMsLTk3OT
+eyJoaXN0b3J5IjpbMTA4MDA5MTgzMCwzOTI0Njg3ODMsLTk3OT
 I0NDI2NSwtMjA5NDAxMjgzNF19
 -->

@@ -7,7 +7,7 @@ It is a part of my journey to learn web development technologies.The html page i
 The project is created with
 
  - HTML 5
- - CSS 3
+ - CSS 4
 
  - Visual Studio: To write all the HTML and the CSS code.
  - Pakages used:	 			
@@ -19,6 +19,6 @@ The project is created with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDA5MTgzMCwzOTI0Njg3ODMsLTk3OT
+eyJoaXN0b3J5IjpbLTk4NDk4ODIzMywzOTI0Njg3ODMsLTk3OT
 I0NDI2NSwtMjA5NDAxMjgzNF19
 -->

@@ -26,7 +26,10 @@ The project is created with
 			- https://vectr.com/
 
 
+## Launch
+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0MTQ2MzcsMzkyNDY4NzgzLC05Nz
-kyNDQyNjUsLTIwOTQwMTI4MzRdfQ==
+eyJoaXN0b3J5IjpbLTYzMTUxNjE3MiwzOTI0Njg3ODMsLTk3OT
+I0NDI2NSwtMjA5NDAxMjgzNF19
 -->

@@ -41,8 +41,9 @@ The project is created with
 	- Sept 2015 release and above.
 - Opera
 	- Oct 2013 release and above.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjE0NTQyMyw3ODk4NjQyMDIsLTYzMT
-UxNjE3MiwzOTI0Njg3ODMsLTk3OTI0NDI2NSwtMjA5NDAxMjgz
-NF19
+eyJoaXN0b3J5IjpbLTEzNDczMjMyNjcsMTEzNjE0NTQyMyw3OD
+k4NjQyMDIsLTYzMTUxNjE3MiwzOTI0Njg3ODMsLTk3OTI0NDI2
+NSwtMjA5NDAxMjgzNF19
 -->

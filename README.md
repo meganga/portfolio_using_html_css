@@ -29,7 +29,10 @@ The project is created with
 ## Launch
  
 
+ - Edge version 12 and above.
+ - Firefox 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTUxNjE3MiwzOTI0Njg3ODMsLTk3OT
-I0NDI2NSwtMjA5NDAxMjgzNF19
+eyJoaXN0b3J5IjpbLTE0NzY0MzQ1NTEsLTYzMTUxNjE3MiwzOT
+I0Njg3ODMsLTk3OTI0NDI2NSwtMjA5NDAxMjgzNF19
 -->

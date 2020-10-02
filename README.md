@@ -1,7 +1,7 @@
 
 # My first portfolio using html and css.
 
-It is a part of myMaking a html webpage using css only.
+It is a part of my journey to learn web development technologies.The html page is made using only css and no external libraries.
 
 ## Technologies Used:
 
@@ -17,6 +17,6 @@ It is a part of myMaking a html webpage using css only.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NDA3MjE1LC05NzkyNDQyNjUsLTIwOT
+eyJoaXN0b3J5IjpbMzkyNDY4NzgzLC05NzkyNDQyNjUsLTIwOT
 QwMTI4MzRdfQ==
 -->

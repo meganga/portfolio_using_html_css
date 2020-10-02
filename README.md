@@ -12,7 +12,8 @@ The project is created with
 ## Applications/resources used :
 
  - Visual Studio: 
-		 - To write all the HTML and the CSS code.
+	 - To write all the HTML and the CSS code.
+		  
  - Pakages used:	 
 	 -  Prettier: To take care of the indentation and maintaining the structure of the code.
 	 - open in browse: To open file in a browse more easily.
@@ -40,6 +41,6 @@ The project is created with
 - Opera
 	- Oct 2013 release and above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTc0NDc4MCwtNjMxNTE2MTcyLDM5Mj
-Q2ODc4MywtOTc5MjQ0MjY1LC0yMDk0MDEyODM0XX0=
+eyJoaXN0b3J5IjpbNzg5ODY0MjAyLC02MzE1MTYxNzIsMzkyND
+Y4NzgzLC05NzkyNDQyNjUsLTIwOTQwMTI4MzRdfQ==
 -->

@@ -1,7 +1,7 @@
 
 # My first portfolio using html and css.
 
-Making a html webpage using css only.
+It is a part of myMaking a html webpage using css only.
 
 ## Technologies Used:
 
@@ -17,5 +17,6 @@ Making a html webpage using css only.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTI0NDI2NSwtMjA5NDAxMjgzNF19
+eyJoaXN0b3J5IjpbOTQ1NDA3MjE1LC05NzkyNDQyNjUsLTIwOT
+QwMTI4MzRdfQ==
 -->

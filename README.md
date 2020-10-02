@@ -1,7 +1,7 @@
 
 # My first portfolio using html and css.
 
-Making a html webp
+Making a html webpage using css only.
 
 ## Technologies Used:
 
@@ -16,6 +16,5 @@ Making a html webp
 			- https://vectr.com/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4MzgyNDEsLTIwOTQwMTI4MzRdfQ
-==
+eyJoaXN0b3J5IjpbLTQ2MzQ2OTc4MywtMjA5NDAxMjgzNF19
 -->

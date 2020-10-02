@@ -17,7 +17,9 @@ The project is created with
 					 - Prettier: To take care of the indentation and maintaining the structure of the code.
 					 - open in browse: To open file in a browse more easily.
  - Stackedit:
-		 - To write and maintain the README.md fi
+		 - To write and maintain the README.md file.
+		 - https://stackedit.io
+		 - 
 		 
 
 
@@ -30,6 +32,6 @@ The project is created with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODU0OTQ2NiwzOTI0Njg3ODMsLTk3OT
-I0NDI2NSwtMjA5NDAxMjgzNF19
+eyJoaXN0b3J5IjpbMTY1NDYzMTI2LDM5MjQ2ODc4MywtOTc5Mj
+Q0MjY1LC0yMDk0MDEyODM0XX0=
 -->
